@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyApplications/ip_sham_android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1125" />
+        <entry key="..\:/MyApplications/ip_sham_android/app/src/main/res/drawable/ic_circular.xml" value="0.1125" />
+        <entry key="..\:/MyApplications/ip_sham_android/app/src/main/res/drawable/ic_circular_progress_bar.xml" value="0.1125" />
+        <entry key="..\:/MyApplications/ip_sham_android/app/src/main/res/drawable/ic_humidity.xml" value="0.1125" />
+        <entry key="..\:/MyApplications/ip_sham_android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1125" />
+        <entry key="..\:/MyApplications/ip_sham_android/app/src/main/res/drawable/ic_menu.xml" value="0.1125" />
+        <entry key="..\:/MyApplications/ip_sham_android/app/src/main/res/drawable/ic_temperature.xml" value="0.1125" />
+        <entry key="..\:/MyApplications/ip_sham_android/app/src/main/res/layout/activity_dashboard.xml" value="0.1" />
+        <entry key="..\:/MyApplications/ip_sham_android/app/src/main/res/layout/activity_drawer_base.xml" value="0.17980072463768115" />
+        <entry key="..\:/MyApplications/ip_sham_android/app/src/main/res/layout/activity_history.xml" value="0.25" />
+        <entry key="..\:/MyApplications/ip_sham_android/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/MyApplications/ip_sham_android/app/src/main/res/layout/content_layout.xml" value="0.17980072463768115" />
+        <entry key="..\:/MyApplications/ip_sham_android/app/src/main/res/layout/flmae_item.xml" value="0.1" />
+        <entry key="..\:/MyApplications/ip_sham_android/app/src/main/res/layout/fragment_flame.xml" value="0.19010416666666666" />
+        <entry key="..\:/MyApplications/ip_sham_android/app/src/main/res/layout/fragment_hum.xml" value="0.19010416666666666" />
+        <entry key="..\:/MyApplications/ip_sham_android/app/src/main/res/layout/fragment_smoke.xml" value="0.19010416666666666" />
+        <entry key="..\:/MyApplications/ip_sham_android/app/src/main/res/layout/fragment_temp.xml" value="0.20416666666666666" />
+        <entry key="..\:/MyApplications/ip_sham_android/app/src/main/res/layout/header.xml" value="0.12771739130434784" />
+        <entry key="..\:/MyApplications/ip_sham_android/app/src/main/res/layout/hum_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/MyApplications/ip_sham_android/app/src/main/res/layout/smoke_item.xml" value="0.1" />
+        <entry key="..\:/MyApplications/ip_sham_android/app/src/main/res/layout/temp_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/MyApplications/ip_sham_android/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/MyApplications/ip_sham_android/app/src/main/res/menu/main_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

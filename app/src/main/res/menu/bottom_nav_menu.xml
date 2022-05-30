@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Temperature"
+        android:icon="@drawable/temp_icon"
+        android:id="@+id/botTem"/>
+    <item android:title="Humidity"
+        android:icon="@drawable/hum_icon"
+        android:id="@+id/botHum"/>
+    <item android:title="Smoke"
+        android:icon="@drawable/smoke_icon"
+        android:id="@+id/botSmk"/>
+    <item android:title="Flame"
+        android:icon="@drawable/flame_icon"
+        android:id="@+id/botFlame"/>
+</menu>

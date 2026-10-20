@@ -8,6 +8,12 @@ This repository contains the **Java mobile application**, which serves as the us
 
 The project was developed as an academic project to explore IoT integration and Android application development using Java.
 
+##  Related Repository
+
+This project was implemented using two different mobile development technologies. The repositories contain separate implementations of the mobile application.
+
+- **Flutter version:** [sham-fire-robot-flutter](https://github.com/HibaBenNasr/sham-fire-robot-flutter)
+
 ##  Project Objectives
 
 - Monitor indoor environmental conditions using IoT sensors.
@@ -80,12 +86,6 @@ The navigation menu provides access to the application's main sections.
 Watch the project demonstration video:
 
 [**View the SHAM project demo**](https://github.com/user-attachments/assets/97a52a32-124e-43b0-ad0d-28a012906482)
-
-##  Related Repository
-
-This project was implemented using two different mobile development technologies. The repositories contain separate implementations of the mobile application.
-
-- **Flutter version:** [sham-fire-robot-flutter](https://github.com/HibaBenNasr/sham-fire-robot-flutter)
 
 ##  Project Context
 

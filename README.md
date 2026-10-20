@@ -85,7 +85,7 @@ Watch the project demonstration video:
 
 This project was implemented using two different mobile development technologies. The repositories contain separate implementations of the mobile application.
 
-- **Flutter version:** [ip-sham-project](https://github.com/HibaBenNasr/sham-fire-robot-flutter)
+- **Flutter version:** [sham-fire-robot-flutter](https://github.com/HibaBenNasr/sham-fire-robot-flutter)
 
 ##  Project Context
 
